@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>source/file.png</file>
+        <file>source/lastsong.png</file>
+        <file>source/listcircle.png</file>
+        <file>source/oncecircle.png</file>
+        <file>source/pause.png</file>
+        <file>source/play.png</file>
+        <file>source/musicbackgroud.png</file>
+        <file>source/nextsong.png</file>
+        <file>source/randomcircle.png</file>
+        <file>source/volume.png</file>
+    </qresource>
+</RCC>
